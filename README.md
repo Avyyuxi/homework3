@@ -1,2 +1,2 @@
 # homework3
-![image](https://github.com/Ellengc/homework3/picture/duck.png)
+![Alt text](https://github.com/Ellengc/homework3/raw/master/picture/duck.png)
